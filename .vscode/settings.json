@@ -1,0 +1,6 @@
+{
+	"[json][jsonc][typescriptreact][javascriptreact][typescript][javascript]": {
+		"editor.defaultFormatter": "dprint.dprint"
+	},
+	"typescript.tsdk": "node_modules/typescript/lib"
+}
